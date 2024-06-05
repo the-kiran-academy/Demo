@@ -18,6 +18,8 @@ public class DemoApplication {
 		LOGGER.warn("Message logged at WARN level");
 		LOGGER.info("Message logged at INFO level");
 		LOGGER.debug("Message logged at DEBUG level");
+
+		System.out.println("hi");
 	}
 
 	@RequestMapping("/")
