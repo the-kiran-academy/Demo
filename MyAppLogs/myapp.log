@@ -13,3 +13,5 @@
 2025-04-10 16:09:00 [restartedMain] WARN  com.example.demo.DemoApplication - Message logged at WARN level
 2025-04-10 16:09:00 [restartedMain] INFO  com.example.demo.DemoApplication - Message logged at INFO level
 2025-04-10 16:09:16 [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-10 16:09:16 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-10 16:09:16 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
