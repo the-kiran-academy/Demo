@@ -8,6 +8,6 @@ public class Test2Controller {
 
 	@GetMapping("/rushikesh")
 	public String demoApi() {
-		return "rushikesh";
+		return "rushikesh-bhadage";
 	}
 }
