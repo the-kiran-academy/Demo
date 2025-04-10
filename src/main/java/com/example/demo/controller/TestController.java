@@ -6,9 +6,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 	
+
+	@GetMapping("/Priyanka-S-More")
+	public String priyankaSMore() {
+		return "Hello Priyanka";
+  }
 	@GetMapping("/ram-chadar")
 	public String ramChadar() {
 		return "Hello Ram";
+
 	}
 
 }
